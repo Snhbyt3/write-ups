@@ -9,6 +9,5 @@ Descrição:    Welcome to Amazing EMA Company.Co!!!
 Objetivo: Demonstrar a importância de criar a documentação de um projeto de API.
 
 Solução: No enunciado do desafio, é dito que se usa uma aplicação comum em um endpoint comum para ter acesso à documentação da API.
-Com uma rápida busca na internet 
-
-![alt text](https://github.com/Snhbyt3/write-ups/blob/main/InternalCTF/image.png)
+Com uma rápida busca na internet, descobre-se que uma dos geradores de documentação mais utilizados para projetos de API é o SwaggerUI.
+Pesquisando pela URI que gera a visualização da documentação 
